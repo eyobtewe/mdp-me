@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mdp</string>
+    
+    <!-- Image titles -->
+    <string name="miu_campus_title">MIU Campus</string>
+    <string name="sustainable_living_center_title">Sustainable Living Center</string>
+    <string name="compro_professionals_title">ComPro Professionals</string>
+    <string name="miu_snow_fall_title">MIU Snow Fall</string>
+    <string name="compro_admission_team_title">ComPro Admission Team</string>
+    <string name="faculty_student_title">Faculty and Student</string>
+    <string name="rainbow_title">Rainbow</string>
+</resources>
